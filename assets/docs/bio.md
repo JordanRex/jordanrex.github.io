@@ -9,6 +9,8 @@ header:
     link: mailto:varunrajan@protonmail.com
   - text: <span class="iconify" data-icon="charm:person"></span> Personal Bio
     link: https://jordanrex.github.io/
+  - text: <span class="iconify" data-icon="uil:linkedin"></span> LinkedIn
+    link: https://www.linkedin.com/in/varunvrajan/
 ---
 
 ## Summary
@@ -22,11 +24,6 @@ A passionate coder, constantly seeking to tackle technical challenges while fost
 - **Place of Birth**: Trivandrum  
 - **Nationality**: Indian  
 - **Hobbies**: music albeit listening to only, magic the gathering  
-
-## Social Profiles
-
-- Personal Bio: [click here](https://jordanrex.github.io/)
-- LinkedIn: [click here](https://www.linkedin.com/in/varunvrajan/)
 
 ## Languages
 

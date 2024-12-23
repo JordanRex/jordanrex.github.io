@@ -10,9 +10,6 @@ Hobbies: music albeit listening to only, magic the gathering
 Summary:
 Engineer with a decade of experience in Data & Analytics and Software, driving impactful solutions across diverse industries such as Retail, Banking, FMCG, and Manufacturing. Expertise spans analytics strategy, product development, and AIML architecture, showcasing a strong capability in leading complex projects and initiatives. A passionate coder, constantly seeking to tackle technical challenges while fostering innovation in product design and development. Committed to staying ahead of technological trends and delivering exceptional results in fast-paced environments.
 
-Social Profiles:
- - Personal Bio: https://jordanrex.github.io/
-
 Languages:
  - English (Primary)
  - Malayalam (Native)
