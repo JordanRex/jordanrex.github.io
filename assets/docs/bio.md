@@ -1,7 +1,15 @@
-## Varun V
-**Data Science | Senior Manager at AbInBev**
-
-📍 **Bengaluru**  |  📞 **9916014327**
+---
+name: Varun V
+header:
+  - text: |
+      <span style="font-size: 1.2em; font-weight: bold;">Applying for: Data Science</span>
+  - text: <span class="iconify" data-icon="tabler:phone"></span> 9916014327
+    newLine: true
+  - text: <span class="iconify" data-icon="tabler:mail"></span> varunrajan@protonmail.com
+    link: mailto:varunrajan@protonmail.com
+  - text: <span class="iconify" data-icon="charm:person"></span> Personal Bio
+    link: https://jordanrex.github.io/
+---
 
 ## Summary
 
@@ -9,6 +17,8 @@ Engineer with a decade of experience in Data & Analytics and Software, driving i
 
 A passionate coder, constantly seeking to tackle technical challenges while fostering innovation in product design and development. Committed to staying ahead of technological trends and delivering exceptional results in fast-paced environments.
 
+- **Location**: Bengaluru, KA, India
+- **Date of Birth**: 24-01-1993  
 - **Place of Birth**: Trivandrum  
 - **Nationality**: Indian  
 - **Hobbies**: music albeit listening to only, magic the gathering  
