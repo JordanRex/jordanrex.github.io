@@ -13,3 +13,7 @@ This site is crafted using the incredible **[Chirpy Starter](https://github.com/
 ---
 
 🚧 *This site is constantly evolving. Check back for updates as I continue building new features and content.*
+
+---
+To start the server:
+`bundle exec jekyll s`
